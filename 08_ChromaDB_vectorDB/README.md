@@ -6,6 +6,7 @@ This project is a **Multimodal Retrieval-Augmented Generation (RAG) system** tha
 It uses the **CLIP vision–language model (`clip-ViT-B-32`)**, **ChromaDB vector database**, and **Streamlit** to retrieve relevant text passages and associated images based on natural language queries.
 
 ---
+Link = https://genrative-ai-1.onrender.com
 
 ## Objective
 

@@ -4,4 +4,3 @@ sentence-transformers
 pymupdf
 pillow
 numpy
-pymupdf sentence-transformers chromadb pillow

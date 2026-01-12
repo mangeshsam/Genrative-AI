@@ -146,12 +146,4 @@ This project demonstrates a **real-world multimodal AI system** that combines **
 Junior Data Scientist | Generative AI & Data Science
 
 ---
-
-If you want next, I can:
-
-* Convert this into **resume bullet points**
-* Create **architecture diagram**
-* Write **project explanation for interviews**
-* Optimize for **GitHub SEO**
-
 Just tell me 👍
